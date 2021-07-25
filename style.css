@@ -1,0 +1,16 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.profile a:hover {
+    background: var(--blue);
+}
